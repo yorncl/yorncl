@@ -4,6 +4,7 @@ Hello, my name is Martin. I study Computer Science at [42 Paris](https://42.fr)
 
 Here are some of my projects : 
 * [minirt](https://github.com/yorncl/minirt) : A minimal raytracer written in C
+* [scop](https://github.com/yorncl/scop) : A small program that parses and renders simple obj files from scratch with OpenGL.
 * [ft_containers](https://github.com/yorncl/ft_containers) : An implementation of the most common STL containers in C++
 * [ft_transcendance](https://github.com/Trbonnes/ft_transcendance) : Group project, a full-stack web application to play pong with your friends (NestJS + Nuxt w/ typescript)
 * [webserver](https://github.com/paulineggf/webserver) : Group project, an implementation of a web server based on Nginx for HTTP/1.1 in C++
