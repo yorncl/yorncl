@@ -9,7 +9,7 @@ Here are some of my projects :
 * [ft_transcendance](https://github.com/Trbonnes/ft_transcendance) : Group project, a full-stack web application to play pong with your friends (NestJS + Nuxt w/ typescript)
 * [webserver](https://github.com/paulineggf/webserver) : Group project, an implementation of a web server based on Nginx for HTTP/1.1 in C++
 * ft_linux: a custom linux distribution (linux from scratch), includes KDE Plasma 5
-
+* [minishell](https://github.com/tvideira/minishell) : Group project, an implementation of a shell mimicking bash behaviour.
 
 Here are some stupid ideas that I took the time to implement: 
 * [snake-bootloader](https://github.com/yorncl/snake-bootloader) : A snake game fitting into 256 bytes that you can boot in a virtual machine or on real hardware
