@@ -14,5 +14,5 @@ Here are some of my projects :
 Here are some stupid ideas that I took the time to implement: 
 * [snake-bootloader](https://github.com/yorncl/snake-bootloader) : A snake game fitting into 256 bytes that you can boot in a virtual machine or on real hardware
 * [QwertyRace](https://github.com/yorncl/qwertyrace) : A game where you have to type qwerty over and over as fast as possible
-* [barrier_sempahore](https://github.com/yorncl/barrier_semaphore) : A minimal implementation of the barrier API with sempaphores in C
+
 
