@@ -1,6 +1,6 @@
 ### Hi
 
-Hello, my name is Martin. I do computer things I sometimes hang out at [42 Paris](https://42.fr). I like systems programming in C/Rust, Linux related things, and dabble in webdev when I'm feeling like shooting myself in the foot.
+Hello, my name is Martin. I do computer things. I sometimes hang out at [42 Paris](https://42.fr). I like systems programming in C/Rust, Linux related things, and dabble in webdev when I'm feeling like shooting myself in the foot.
 
 Here are some of my school projects : 
 * [minirt](https://github.com/yorncl/minirt) : A minimal raytracer written in C
