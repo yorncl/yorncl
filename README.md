@@ -3,7 +3,7 @@
 Hello, my name is Martin. I do computer things. I sometimes hang out at [42 Paris](https://42.fr). I like systems programming in C/Rust, Graphics, Linux related things, and dabble in webdev when I'm feeling like shooting myself in the foot.
 
 Here are some of my projects : 
-* [marching_cubes](https://github.com/yorncl/marching_cubes)
+* [marching_cubes](https://github.com/yorncl/marching_cubes): a voxel engine in 1.5k lines of C
 * [mojitOS](https://github.com/yorncl/mojitOS) : a x86 kernel written in Rust, with high ambitions but with a high probability of lying unfinished (currently with a few hardware drivers, memory management, interrupts handling, and basic kernel threads)
 * [minirt](https://github.com/yorncl/minirt) : A minimal raytracer written in C
 * [scop](https://github.com/yorncl/scop) : A small program that parses and renders simple obj files from scratch with OpenGL.
